@@ -1,7 +1,7 @@
 # Foo-et-al-parameterization
 a Software Package for the 'Foo et al parameterization' that can be used as a template.
 
-# Foo Parameterization
+
 
 ## Overview
 This project calculates the volume of a sphere using the complex Foo et al. parameterization.
@@ -10,8 +10,8 @@ This project calculates the volume of a sphere using the complex Foo et al. para
 
 1. **Clone the Repository**:
     ```sh
-    git clone https://github.com/yourusername/foo-parameterization.git
-    cd foo-parameterization
+    git clone https://github.com/A-Monjaras/foo-et-al-parameterization.git
+    cd foo-et-al-parameterization
     ```
 
 2. **Create a Build Directory**:
