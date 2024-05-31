@@ -10,7 +10,7 @@ This project calculates the volume of a sphere using the complex Foo et al. para
 
 1. **Clone the Repository**:
     ```sh
-    git clone https://github.com/A-Monjaras/foo-et-al-parameterization.git
+    git clone https://github.com/A-Monjaras/Foo-et-al-parameterization.git
     cd foo-et-al-parameterization
     ```
 
